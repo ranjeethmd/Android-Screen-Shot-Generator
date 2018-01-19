@@ -1,0 +1,19 @@
+C:\Users\ranjeeth.devaiah\Documents\Visual Studio 2015\Projects\ScreenShotGenerator\ScreenShotGenerator\bin\Release\ScreenShotGenerator.exe.config
+C:\Users\ranjeeth.devaiah\Documents\Visual Studio 2015\Projects\ScreenShotGenerator\ScreenShotGenerator\bin\Release\ScreenShotGenerator.exe
+C:\Users\ranjeeth.devaiah\Documents\Visual Studio 2015\Projects\ScreenShotGenerator\ScreenShotGenerator\bin\Release\ScreenShotGenerator.pdb
+C:\Users\ranjeeth.devaiah\Documents\Visual Studio 2015\Projects\ScreenShotGenerator\ScreenShotGenerator\obj\Release\ScreenShotGenerator.Form1.resources
+C:\Users\ranjeeth.devaiah\Documents\Visual Studio 2015\Projects\ScreenShotGenerator\ScreenShotGenerator\obj\Release\ScreenShotGenerator.Properties.Resources.resources
+C:\Users\ranjeeth.devaiah\Documents\Visual Studio 2015\Projects\ScreenShotGenerator\ScreenShotGenerator\obj\Release\ScreenShotGenerator.csproj.GenerateResource.Cache
+C:\Users\ranjeeth.devaiah\Documents\Visual Studio 2015\Projects\ScreenShotGenerator\ScreenShotGenerator\obj\Release\ScreenShotGenerator.exe
+C:\Users\ranjeeth.devaiah\Documents\Visual Studio 2015\Projects\ScreenShotGenerator\ScreenShotGenerator\obj\Release\ScreenShotGenerator.pdb
+C:\Users\ranjeeth.devaiah\Documents\Visual Studio 2015\Projects\ScreenShotGenerator\ScreenShotGenerator\obj\Release\ScreenShotGenerator.csprojResolveAssemblyReference.cache
+D:\Backup\ScreenShotGenerator\ScreenShotGenerator\bin\Release\ScreenShotGenerator.exe.config
+D:\Backup\ScreenShotGenerator\ScreenShotGenerator\bin\Release\ScreenShotGenerator.exe
+D:\Backup\ScreenShotGenerator\ScreenShotGenerator\bin\Release\ScreenShotGenerator.pdb
+D:\Backup\ScreenShotGenerator\ScreenShotGenerator\obj\Release\ScreenShotGenerator.csprojResolveAssemblyReference.cache
+D:\Backup\ScreenShotGenerator\ScreenShotGenerator\obj\Release\ScreenShotGenerator.Form1.resources
+D:\Backup\ScreenShotGenerator\ScreenShotGenerator\obj\Release\ScreenShotGenerator.Properties.Resources.resources
+D:\Backup\ScreenShotGenerator\ScreenShotGenerator\obj\Release\ScreenShotGenerator.csproj.GenerateResource.Cache
+D:\Backup\ScreenShotGenerator\ScreenShotGenerator\obj\Release\ScreenShotGenerator.csproj.CoreCompileInputs.cache
+D:\Backup\ScreenShotGenerator\ScreenShotGenerator\obj\Release\ScreenShotGenerator.exe
+D:\Backup\ScreenShotGenerator\ScreenShotGenerator\obj\Release\ScreenShotGenerator.pdb
